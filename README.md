@@ -1,2 +1,5 @@
-# dheists_wiki
-Documentation for all dHeists functions, hooks and information.
+# dHeists - Docs
+Making dHeists easy to use for everyone!
+
+## Creating a Zone
+- Type /zones (if you have access) to open the Zone List.
